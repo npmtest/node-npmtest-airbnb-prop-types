@@ -1,0 +1,40 @@
+<svg height="590" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="590" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">10 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">├─┬ airbnb-prop-types@2.5.3 </tspan>
+<tspan x="10" y="90">│ ├─┬ array.prototype.find@2.0.4 </tspan>
+<tspan x="10" y="106">│ │ ├─┬ define-properties@1.1.2 </tspan>
+<tspan x="10" y="122">│ │ │ └── foreach@2.0.5 </tspan>
+<tspan x="10" y="138">│ │ └─┬ es-abstract@1.7.0 </tspan>
+<tspan x="10" y="154">│ │   ├─┬ es-to-primitive@1.1.1 </tspan>
+<tspan x="10" y="170">│ │   │ ├── is-date-object@1.0.1 </tspan>
+<tspan x="10" y="186">│ │   │ └── is-symbol@1.0.1 </tspan>
+<tspan x="10" y="202">│ │   └── is-callable@1.1.3 </tspan>
+<tspan x="10" y="218">│ ├─┬ has@1.0.1 </tspan>
+<tspan x="10" y="234">│ │ └── function-bind@1.1.0 </tspan>
+<tspan x="10" y="250">│ ├── is-regex@1.0.4 </tspan>
+<tspan x="10" y="266">│ ├─┬ object.assign@4.0.4 </tspan>
+<tspan x="10" y="282">│ │ └── object-keys@1.0.11 </tspan>
+<tspan x="10" y="298">│ ├── object.entries@1.0.4 </tspan>
+<tspan x="10" y="314">│ └─┬ prop-types@15.5.8 </tspan>
+<tspan x="10" y="330">│   └─┬ fbjs@0.8.12 </tspan>
+<tspan x="10" y="346">│     ├── core-js@1.2.7 </tspan>
+<tspan x="10" y="362">│     ├─┬ isomorphic-fetch@2.2.1 </tspan>
+<tspan x="10" y="378">│     │ ├─┬ node-fetch@1.6.3 </tspan>
+<tspan x="10" y="394">│     │ │ ├─┬ encoding@0.1.12 </tspan>
+<tspan x="10" y="410">│     │ │ │ └── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="426">│     │ │ └── is-stream@1.1.0 </tspan>
+<tspan x="10" y="442">│     │ └── whatwg-fetch@2.0.3 </tspan>
+<tspan x="10" y="458">│     ├─┬ loose-envify@1.3.1 </tspan>
+<tspan x="10" y="474">│     │ └── js-tokens@3.0.1 </tspan>
+<tspan x="10" y="490">│     ├── object-assign@4.1.1 </tspan>
+<tspan x="10" y="506">│     ├─┬ promise@7.1.1 </tspan>
+<tspan x="10" y="522">│     │ └── asap@2.0.5 </tspan>
+<tspan x="10" y="538">│     ├── setimmediate@1.0.5 </tspan>
+<tspan x="10" y="554">│     └── ua-parser-js@0.7.12 </tspan>
+<tspan x="10" y="570">└── UNMET PEER DEPENDENCY react@^0.14 || ^15.0.0</tspan>
+</text>
+</svg>
